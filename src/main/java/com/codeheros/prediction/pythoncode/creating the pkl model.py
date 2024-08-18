@@ -5,7 +5,7 @@ from sklearn.model_selection import GridSearchCV
 import pickle
 
 # Load dataset
-iris = pd.read_csv('src/main/dataset/iris.csv')
+iris = pd.read_csv('./iris.csv')
 
 # Drop the 'id' column
 iris.drop('id', axis=1, inplace=True)
