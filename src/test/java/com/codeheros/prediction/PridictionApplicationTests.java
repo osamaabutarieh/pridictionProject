@@ -1,10 +1,10 @@
-package com.codeheros.pridiction;
+package com.codeheros.prediction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PridictionApplicationTests {
+class PredictionApplicationTests {
 
 	@Test
 	void contextLoads() {

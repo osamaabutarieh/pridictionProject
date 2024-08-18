@@ -1,7 +1,9 @@
-package com.codeheros.pridiction.util;
+package com.codeheros.prediction.util;
 
-public class ModelUtil {
-    private ModelUtil() {
+public class ModelUtil
+{
+    private ModelUtil()
+    {
     
     }
     
@@ -21,8 +23,9 @@ public class ModelUtil {
         or an iris-virginica based on these attributes.
 	 */
     
-    public static String irisPredict(int sepalLength, int sepalWidth, int petalLength, int petalWidth) {
-        int x = sepalLength+sepalWidth+petalLength+petalWidth;
+    public String irisPredict(int sepalLength , int sepalWidth , int petalLength , int petalWidth)
+    {
+        int x = sepalLength + sepalWidth + petalLength + petalWidth;
         return "iris-setosa";// or iris-versicolor or iris-virginica
     }
 }

@@ -1,4 +1,4 @@
-package com.codeheros.pridiction.entity;
+package com.codeheros.prediction.entity;
 
 public class irisPlants {
 

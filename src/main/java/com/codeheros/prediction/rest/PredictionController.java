@@ -1,6 +1,6 @@
-package com.codeheros.pridiction.rest;
+package com.codeheros.prediction.rest;
 
-import com.codeheros.pridiction.service.PredictionService;
+import com.codeheros.prediction.service.PredictionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
