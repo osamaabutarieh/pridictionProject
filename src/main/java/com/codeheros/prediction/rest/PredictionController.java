@@ -1,4 +1,4 @@
-package com.codeheros.pridiction.rest;
+package com.codeheros.prediction.rest;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
