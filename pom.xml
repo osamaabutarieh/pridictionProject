@@ -54,6 +54,12 @@
 			<version>4.2.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/com.microsoft.onnxruntime/onnxruntime -->
+		<dependency>
+			<groupId>com.microsoft.onnxruntime</groupId>
+			<artifactId>onnxruntime</artifactId>
+			<version>1.16.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>

@@ -11,7 +11,7 @@ public class PredictionApplication {
 	
 
 	public static void main(String[] args) {//hello from the other side
-		runPython();
+		//runPython();
 		SpringApplication.run(PredictionApplication.class, args);
 	}
 	
