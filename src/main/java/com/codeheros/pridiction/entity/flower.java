@@ -1,2 +1,7 @@
-package com.codeheros.pridiction.entity;public class flower {
+package com.codeheros.pridiction.entity;
+
+public class flower {
+
+
+
 }
