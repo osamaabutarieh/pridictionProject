@@ -1,4 +1,4 @@
-package com.codeheros.pridiction;
+package com.codeheros.pridiction.util;
 
 public class ModelUtil
 {
